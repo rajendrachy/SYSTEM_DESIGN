@@ -16,6 +16,9 @@ SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
 
 
 
+
+
+
 2. DML -> Date manipulation language
  - select -> https://youtu.be/eiLqDeDp7Oc?si=jPXXKw6jafakUWQf
 
@@ -24,6 +27,8 @@ SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
  - updata -> https://youtu.be/x56CHpL4GBE?si=zJLWIdI_JY0t2j5Q
 
  - delete -> https://youtu.be/_m1aJdD-oD8?si=lvKe23dVYwNJwHGW
+
+
 
 
 
