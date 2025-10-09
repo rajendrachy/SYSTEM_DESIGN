@@ -1,0 +1,22 @@
+# Introduction to normalization -> https://www.youtube.com/watch?v=5GDTIUVlHB8&list=PLxiqTMxJd6p_oBBX_MbZAhRNH2iX4-pg_ => yt_link
+
+
+
+
+#----------------------------Normal Forms(NF)------------------
+# 1NF -> https://youtu.be/NlgZy30Dv9A?si=JWlB1DtsCoHv9tin => yt_link
+
+# 2NF -> https://youtu.be/tkbAA--wKOc?si=x_5UG3ZRTZtouKIu => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+

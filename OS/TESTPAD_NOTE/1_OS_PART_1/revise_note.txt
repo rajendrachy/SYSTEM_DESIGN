@@ -1,0 +1,142 @@
+1. What is operating system ?
+
+2. operating system goals.
+
+3. Structure of the OS. => U, A, O, H
+
+4. Computer Architecture => ISA → Instruction Set Architecture
+ HSA → Hardware System Architecture
+ AGP → Accelerated Graphics Port
+ PCI → Peripheral Component Interconnect
+
+5.CPU – Central Processing Unit 
+
+6.RAM – Random Access Memory
+
+7. Operating System Mode
+ - User Mode
+ - Kernel Mode
+ - System calls are used to change mode
+from User to Kernel
+ yt_link -> https://youtu.be/KOC3CZNjyJ4?si=vbQEn2Sd-zUU4tjF
+
+
+
+
+
+8. Kernel 
+- When operation system boots, kernel is first part of OS to load in main memory
+- The kernel code is usually loaded in to protected area of memory
+- Kernel does not interact directly with user, but it interacts using SHELL and other
+programs and hardware.
+
+
+
+
+9. Kernel includes:
+- S, S, I, M
+- kernel provides services for process management, file management, I/O  
+management, memory management.
+- System calls are used to  provide these type of services.
+
+
+
+10. System calls
+- System calls are also called software-interrupts.
+- yt_channel -> https://youtu.be/lhToWeuWWfw?si=pogKG6Cr8_TyNAEP
+
+
+
+
+11. Starting an Operating System(Booting)
+yt_channel -> https://youtu.be/ecu4Lay1Xa0
+- BIOS (Basic Input/Output System) chip
+- Power-On Self Test (POST)
+- MBR → Master Boot Record 
+
+
+
+
+
+
+
+12. BIOS(Basic input output system)
+- BIOS firmware was stored in a ROM/EPROM (Erasable Programmable
+Read-Only Memory) chip known as firmware on the PC motherboard
+
+
+
+
+
+13. UEFI
+- UEFI stands for Unified Extensible Firmware Interface. It does the same job as a BIOS, 
+but with one basic difference: it stores all data about initialization and startup in an .efi 
+file, instead of storing it on the firmware.
+- This .efi file is stored on a special partition called EFI System Partition (ESP) on the 
+hard disk. This ESP partition also contains the bootloader
+- UEFI was designed to overcome many limitations of the old BIOS, including:
+
+
+
+
+
+
+
+14. Functions of Operating System:
+- Process Management
+- Memory management: Main memory is a volatile storage device
+- File Management
+ =>  FAT12 (floppy  disks) 
+ FAT16 (DOS and older versions of Windows) 
+ FAT32 (older versions  of Windows) 
+ NTFS (newer versions  of Windows) 
+ EXT3 (Unix/Linux) 
+ HFS+ (Max OS X)
+- Device Management or I/O Management
+- Security & Protection
+- User Interface Mechanism
+ => There are two types of user interfaces 
+1. Command Line Interface
+2. Graphical user Interface
+
+
+
+
+
+
+15. History of Operating System
+- The First Generation (1940's to early 1950's)
+      -No Operating System
+- The Second Generation (1955-1965) : First operating system was introduced in the early 1950's.It was called GMOS(General Motors Operating System)
+- The Third Generation (1965-1980)
+ Introduction of multiprogramming
+ Development of Minicomputer
+- The Fourth Generation (1980-Present Day)
+ Development of PCs
+ Birth of Windows/MaC OS
+
+
+
+
+
+
+
+
+
+
+
+#Types of Operating Systems
+1. Batch Operating System
+2. Multiprogramming Operating System
+3. Time-Sharing OS
+4. Multiprocessing OS : Multiprocessor operating systems are also known as parallel OS or tightly
+coupled OS
+5. Distributed OS
+6. Network OS
+7. Real Time OS
+8. Embedded OS 
+
+
+
+
+

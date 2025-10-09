@@ -1,0 +1,66 @@
+Types of Operating Systems
+8 types -> B, M, M, M, R, N, N , D
+
+
+
+
+
+
+
+1.FCFS - First Come First Serve CPU Scheduling
+The mechanics of FCFS are straightforward -> follow the arraival time if given 
+-if arraival time is 0 for all then which come first run this whthout seeing the burst time
+
+
+
+
+
+
+2.Shortest Job First or SJF CPU Scheduling - Shortest Job First (SJF) or Shortest Job Next (SJN) - (It is not preemitive)
+- The Shortest Job First (SJF) Scheduling algorithm selects the process with the smallest burst time for execution. 
+-This scheduling method may or may not be preemptive.
+-Shortest Job First (Preemptive) or Shortest Remaining Time First
+
+
+
+
+
+
+
+
+3.Shortest Remaining Time First (Preemptive SJF) Scheduling Algorithm
+-The pre-emptive version of Shortest Job First (SJF) scheduling is called Shortest Remaining Time First (SRTF)
+-Turn Around time = Completion time - arrival time
+-Waiting Time = Turn around time - burst time
+
+
+
+
+
+4.Round Robin Scheduling(RR)
+-mode-> Premitive 
+-Simler to FCFS extra thing is time quantun
+-Used in time sharing systems
+-Critearea -> Arrival time + Time quantum
+https://youtu.be/-jFGYDfWkXI?si=kvAf7phV20Inhpj9
+
+
+
+
+
+
+5.Priority Scheduling
+-Priority Scheduling can be implemented in two ways:
+a.Non-Preemptive Priority Scheduling ->  the currently running process will complete first.
+b.Preemptive Priority Scheduling
+
+
+
+
+
+
+
+
+
+
+
