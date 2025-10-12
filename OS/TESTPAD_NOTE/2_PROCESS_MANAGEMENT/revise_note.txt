@@ -1,11 +1,13 @@
-1. Process Definition :
+1. Process Definition : -> https://youtu.be/B0Uq9Mjz4gM?si=2X9hK_s48qQoXWD5 => yt_link
+
 - A process is a program in execution.
 
 
 
 
 
-2. Difference between Program and Process
+2. Difference between Program and Process: -> https://youtu.be/0LwyBjMuIhg?si=m8VhZ9F1VSxCo6vL => yt_link
+
 - A process is an ‘active’ entity instead of a program, 
 which is considered a ‘passive’ entity.
 - Process is created then Memory is allocated and PCB is created to 
@@ -23,8 +25,11 @@ keep various data and pointers related to addresses
 
 
 
+
+
 4. Process Management
-- Memory Layout :-
+- Memory Layout :-> https://youtu.be/grriYn6v76g?si=-45K6ahut9Dv8oL_ => yt_link
+
 
 Text Segment:
     Contains binary code (the program instructions)
@@ -48,7 +53,14 @@ Heap:
 
 
 
-5. PCB (Process Control Block) :-
+
+
+
+
+6. PCB (Process Control Block) :-> https://youtu.be/GuGjNaMl0Rs?si=ZSNFBx0Oe1lVwHkG => yt_link
+
+# PCB -> https://www.geeksforgeeks.org/operating-systems/process-table-and-process-control-block-pcb/ => gfg_link
+ -> p, p, p, p, c, c, i/o, m
 
 
 
@@ -63,8 +75,12 @@ Heap:
 
 
 
-# Process state diagram explain -> New, Ready, Running, Wait & Terminated
+
+
+10. Process state diagram explain ->
+- New, Ready, Running, Wait & Terminated
 -process state diagrem-> YT-channel -> https://youtu.be/2dJdHMpCLIg?si=HDSB-9YIl0mptzKr
+
 - Multi programming & multi tasking -> https://youtu.be/3MqyDWDpZoI?si=Cb7oeh80dh_9sXSJ
 - Multi programming -> non preemptive
 - Multi tasking -> time sharing, preemptive
@@ -82,10 +98,17 @@ Heap:
 
 
 
+
 12. Types of Process:
-- CPU bound processes: If the process is intensive in terms of CPU operations, then it is called
-CPU bound process.
-- I/o bound processes : If the process is intensive in terms of I/O operations then it is called
+- CPU bound processes:-> https://youtu.be/b8lRqwTuWZE?si=pWK7n149b2bU7Ij2 => yt_link
+
+ If the process is intensive in terms of CPU operations, then it is called
+CPU bound process: -> 
+
+
+- I/o bound processes : https://youtu.be/b8lRqwTuWZE?si=pWK7n149b2bU7Ij2 => yt_link
+
+- If the process is intensive in terms of I/O operations then it is called
 I/O bound process.
 
 
@@ -95,9 +118,16 @@ I/O bound process.
 
 
 13. Types of Schedulers
--Long-term – performance:
-Short-term – Context switching time:
-Medium-term – Swapping time:
+-Long-term – performance:-> https://youtu.be/AKCXDlGZ3-8?si=H5obNWZyFHw6XT1h => yt_link
+
+
+-Short-term – Context switching time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
+- Faster than both
+
+
+Medium-term – Swapping time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
+
+
 
 
 
@@ -144,8 +174,22 @@ depending on the load upon the system
 
 
 
-32. IPC :
+32. IPC : -> https://youtu.be/bqfOtLF-jyo?si=6JFVEOsRxaCccM9K => yt_link
+
 Link GFG -> https://www.geeksforgeeks.org/operating-systems/inter-process-communication-ipc/
+
+# Two type of process : -> https://youtu.be/bqfOtLF-jyo?si=6JFVEOsRxaCccM9K => yt_link
+
+ - Independent process
+ - co-operative process
+
+
+
+
+
+
+
+
 
 
 
@@ -155,14 +199,21 @@ Link GFG -> https://www.geeksforgeeks.org/operating-systems/inter-process-commun
 36. PROBLEMS DUE TO PROCESS COMMUNICATION
 a. Race condition : -> https://youtu.be/9F7I6H-A1SY?si=RT_0jCXT5k460UEI => yt_link
  - Concept of synchronous and asynchronous
- - synchronous -> execute full process p1 then start another process p2
- - Asynchronous -> execute simaltineous process p1, p2
+ - synchronous -> execute full process p1 then start another process p2 -> no problem
+ - Asynchronous -> execute simaltineous process p1, p2 -> problem -> this is race condition
 
 
 
 
 
-b. Deadlocks: -> https://youtu.be/rWFH6PLOIEI?si=If6XPW8Q_cekMiao
+
+
+
+
+
+
+b. Deadlocks: -> https://youtu.be/rWFH6PLOIEI?si=If6XPW8Q_cekMiao => yt_link
+
  - Necessary condition:
    ~ Mututal exclusion
    ~ No preemption
@@ -175,7 +226,14 @@ b. Deadlocks: -> https://youtu.be/rWFH6PLOIEI?si=If6XPW8Q_cekMiao
 
 
 
+
+
+
+
 c. Starvation: -> https://youtu.be/FF88j59yLMk?si=r6epyd5OI3_1ZTk2 -> yt_link
+  -> prodess do not have resource this is starvation : -> p1 -> R1
+
+
  - Causes
     . low priority -> process with low proprity wait forever & process with high priority uses a process constantly 
     . Deadlock 
@@ -196,7 +254,14 @@ c. Starvation: -> https://youtu.be/FF88j59yLMk?si=r6epyd5OI3_1ZTk2 -> yt_link
 
 
 
+
+
+
+
+
    37. Process Synchronization : -> https://youtu.be/Z1IpjGa8AZc?si=Bu_u2XcdCikyp6yr -> yt_link
+
+
 
 
 
@@ -212,9 +277,38 @@ c. Starvation: -> https://youtu.be/FF88j59yLMk?si=r6epyd5OI3_1ZTk2 -> yt_link
 
 
 
-40. Solution of critical section problem 
+40. Solution of critical section problem  : 
 a. Semaphore : -> https://youtu.be/yiFBRQLgeZA?si=Zyq5va54J1hFdmvO -> yt_link
    ~ 3 creterias
    . Mututal exclusion
    . Progress
    . Bounded wait 
+
+
+-> Wait, p, down -> all are same
+-> up, v, signel -> all are same
+
+
+ # Semaphore types:
+
+ a. Binary Semaphore : -> https://youtu.be/l5-3mbBV1BQ?si=_xXJOK_zaifVNkLl => yt_link
+
+ b. Counting Semaphore : -> 
+ - If the value of the Semaphore is anywhere above 0, processes can access the critical section or the
+shared resources.
+- if the value is 0, it means that there aren't any resources that are available or the critical section 
+ is already being accessed by a number of processes
+-  Counting semaphores are generally used when the number of instances of a resource is
+more than 1, and multiple processes can access the resource.
+
+
+
+
+
+
+
+
+
+
+
+
