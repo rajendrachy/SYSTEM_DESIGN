@@ -1,7 +1,6 @@
-RAM = Primary Memory
+RAM = Primary Memory or Main memory is a volatile storage device
 Hard Disk / SSD = Secondary Memory
 ROM (Read-Only Memory) is also Primary Memory
-Main memory is a volatile storage device
 
 
 
@@ -246,26 +245,56 @@ hard disk. This ESP partition also contains the bootloader
 
 
 
-
-14. Functions of Operating System: -> https://youtu.be/IafPEfUfcGU?si=TDaFYdGUwttVYKkl => yt_link
+15. Functions of Operating System: -> https://youtu.be/IafPEfUfcGU?si=TDaFYdGUwttVYKkl => yt_link
 
 - Process Management: -> https://youtu.be/aytWaG4mEJI?si=IWq1yuGn7sVwfjYC => yt_link
 
-- Memory management: 
-- File Management:
+
+
+
+- Memory management: -> https://youtu.be/ssDNRULUpt0?si=Wrs7cGTq9Q8U6klJ => yt_link
+
+
+
+
+- File Management: -> https://youtu.be/TcnK7JIYUfM?si=OYvazQXKCsWvDuOx => yt_link
 
  =>  FAT12 (floppy  disks) 
- FAT16 (DOS and older versions of Windows) 
+ FAT16 -> File Allocation Table 16-bit=>  (DOS and older versions of Windows) 
  FAT32 (older versions  of Windows) 
- NTFS (newer versions  of Windows) 
- EXT3 (Unix/Linux) 
- HFS+ (Max OS X)
-- Device Management or I/O Management
-- Security & Protection
-- User Interface Mechanism
+ NTFS -> New Technology File System. => (newer versions  of Windows) 
+ EXT3 -> Third Extended File System => (Unix/Linux) 
+ HFS+ -> Hierarchical File System Plus. => (Max OS X)
+
+
+
+
+
+- Device Management or I/O Management: -> https://youtu.be/xGeyPJOCl-c?si=owAahEe2dkczQmIT => yt_link
+
+
+
+
+
+- Security & Protection : -> https://youtu.be/dsuw1r59K9c?si=3yHGPu6aK0x1xTO4 => yt_link
+
+
+
+
+
+
+
+21. User Interface Mechanism(UIM) : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
+
  => There are two types of user interfaces 
-1. Command Line Interface
-2. Graphical user Interface
+1. Command Line Interface : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
+
+ eg.- Ms-Dos -> https://youtu.be/vLLVQusxKEY?si=UL6L3cU-3wRsHQEV => yt_link
+
+
+
+
+2. Graphical user Interface : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
 
 
 
@@ -280,13 +309,18 @@ hard disk. This ESP partition also contains the bootloader
 
 
 
-15. History of Operating System
+15. History of Operating System : -> https://youtu.be/FL58NJUPHnU?si=IKXIJkHE6nLPdKQC => yt_link
+
 - The First Generation (1940's to early 1950's)
       -No Operating System
+
 - The Second Generation (1955-1965) : First operating system was introduced in the early 1950's.It was called GMOS(General Motors Operating System)
+
 - The Third Generation (1965-1980)
  Introduction of multiprogramming
  Development of Minicomputer
+
+
 - The Fourth Generation (1980-Present Day)
  Development of PCs
  Birth of Windows/MaC OS
@@ -302,15 +336,61 @@ hard disk. This ESP partition also contains the bootloader
 
 
 #Types of Operating Systems
-1. Batch Operating System
-2. Multiprogramming Operating System
-3. Time-Sharing OS
-4. Multiprocessing OS : Multiprocessor operating systems are also known as parallel OS or tightly
+1. Batch Operating System : -> https://youtu.be/povNcHSasgs?si=MR2cMD2E-fImFsiz => yt_link
+ eg -> IBM's MVS 
+
+
+
+2. Multiprogramming Operating System : -> https://youtu.be/3MqyDWDpZoI?si=h9h5VRz6Zn4hgmHG => yt_link
+- It is non-preemptive
+
+
+
+
+3. Time-Sharing OS :=> https://youtu.be/3MqyDWDpZoI?si=h9h5VRz6Zn4hgmHG => yt_channel
+ - It is also caled a Multi Tasking OS
+
+
+
+
+
+4. Multiprocessing OS : -> https://youtu.be/NdTnVA6Eq9s?si=RZCwYsF_klbuIEmh
+Multiprocessor operating systems are also known as parallel OS or tightly
 coupled OS
-5. Distributed OS
-6. Network OS
-7. Real Time OS
-8. Embedded OS 
+
+
+
+5. Distributed OS : ->  https://youtu.be/fqad0srttlo?si=K-HxVSQzt2zTxv77 => yt_link
+
+- These are referred to as loosely coupled systems
+- Examples:- Locus, DYSEAC
+
+# Differences between tightly coupled and loosely coupled systems in OS
+ -> https://youtu.be/8r7bakCd9J8?si=F0GbTmdhDv4TyDla => yt_link
+
+
+
+
+
+
+6. Network OS: -> https://youtu.be/xoxUXcqPhoU?si=hRyRRKUTvjGKwyfL => yt_link
+
+- Popularly known as tightly coupled systems
+
+
+
+
+
+
+7. Real Time OS : -> https://youtu.be/v7ErW6TyG4o?si=dP8XjZibq8SVdzDq => yt_link
+
+
+
+8. Embedded OS : -> https://youtu.be/PDYuYGHT668?si=VgTxhVV-S1Umi20E => yt_link
+
+# embedded meaning -> https://youtu.be/nfelWslqfHU?si=TTzoB8uu5SFQkPXZ => yt_link
+
+
 
 
 
