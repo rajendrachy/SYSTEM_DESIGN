@@ -1,0 +1,46 @@
+1. Thread: -> https://youtu.be/ghp5Ygyb1Z4?si=Pz8cJKpERJFK0IYN => yt_link
+
+
+
+
+1. Types of Thread : -> 
+
+- User Level & Kernel Level Thread -> https://youtu.be/-NONm-Jq34Y?si=zaIyvVHjlmY1mKc0 => yt_link
+
+- Hybrid Thread ->  combination od ULT & KLT
+
+
+
+
+
+
+2. Thread Models : -> 
+- Many to one : -> Many => user and  ONE => Kernel 
+- One to one
+- Many to Many
+
+
+
+
+
+
+
+2. Thread OPeration: ->
+Creation – pthread_create() in POSIX, CreateThread() in Windows. 
+• Termination – pthread_exit() or return from function. 
+• Synchronization – mutexes, semaphores, condition variables. 
+• Scheduling 
+
+
+
+
+
+3. Thread Safety Issues 
+• Race Condition – Two threads access shared data simultaneously, causing 
+inconsistent results. 
+• Deadlock – Two or more threads wait indefinitely for resources. 
+• Starvation – Thread never gets CPU due to scheduling. 
+Solution: Use mutexes, semaphores, or monitors to synchronize threads safely. 
+
+
+
