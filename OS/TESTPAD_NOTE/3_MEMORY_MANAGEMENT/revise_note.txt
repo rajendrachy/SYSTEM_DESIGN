@@ -269,3 +269,11 @@ Where L stands for Number of levels of page table
 
 
 
+# Thrashing: -> https://youtu.be/IyWaK8pbN6A?si=KBTP5gD7XWmkjGoC => yt_link
+# Thrashing : -> https://youtu.be/fMYECCDzUKc?si=oyYFsucWRNe6s_HQ => yt_link
+
+
+
+
+
+
