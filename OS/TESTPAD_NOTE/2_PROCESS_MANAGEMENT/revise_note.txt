@@ -27,6 +27,7 @@ keep various data and pointers related to addresses
 
 
 
+
 4. Process Management
 - Memory Layout :-> https://youtu.be/grriYn6v76g?si=-45K6ahut9Dv8oL_ => yt_link
 
@@ -45,6 +46,7 @@ Stack:
 
 Heap:
     Contains dynamically allocated memory for the process during run time
+
 
 
 
@@ -119,10 +121,14 @@ I/O bound process.
 
 13. Types of Schedulers
 -Long-term – performance:-> https://youtu.be/AKCXDlGZ3-8?si=H5obNWZyFHw6XT1h => yt_link
+ - it is also called a JOb Schedulers
+ - new ----> Ready
 
 
 -Short-term – Context switching time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
 - Faster than both
+- Ready ----------> Running
+
 
 
 Medium-term – Swapping time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
@@ -138,17 +144,56 @@ Medium-term – Swapping time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vB
 
 
 16. CPU SCHEDULING :
-17. CPU Scheduling Algorithms: link -> https://www.geeksforgeeks.org/operating-systems/cpu-scheduling-in-operating-systems/
+17. CPU Scheduling Algorithms: link -> https://www.geeksforgeeks.org/operating-systems/cpu-scheduling-in-operating-systems/ => gfg_link
 
- First Come First Serve (FCFS) -> https://www.geeksforgeeks.org/dsa/first-come-first-serve-cpu-scheduling-non-preemptive/
 
- Shortest Job First (SJF) [Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/shortest-job-first-or-sjf-cpu-scheduling/
 
- Shortest Remaining Time First [Preemptive] -> https://www.geeksforgeeks.org/dsa/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/
+ First Come First Serve (FCFS) -> https://www.geeksforgeeks.org/dsa/first-come-first-serve-cpu-scheduling-non-preemptive/ => gfg_link
+- FCFS suffers from Convoy effect
 
- Priority Scheduling [Preemptive & Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/priority-scheduling-in-operating-system/
 
- Round robin -> https://www.geeksforgeeks.org/operating-systems/round-robin-scheduling-in-operating-system/
+
+
+
+
+ Shortest Job First (SJF) [Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/shortest-job-first-or-sjf-cpu-scheduling/ => gfg_link
+
+- One of the demerit SJF has is starvation.
+- The Shortest Job First (SJF) Scheduling algorithm selects the process with the smallest burst time for execution.
+
+
+
+
+
+
+ Shortest Remaining Time First [Preemptive] -> https://www.geeksforgeeks.org/dsa/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/ => gfg_link
+
+- Shortest remaining time first is the preemptive version of the Shortest job first
+- Like the shortest job first, it also has the potential for process starvation.
+
+
+
+
+
+
+ Priority Scheduling [Preemptive & Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/priority-scheduling-in-operating-system/ => gfg_link
+- One of the most common demerits of the Preemptive priority CPU scheduling algorithm is the Starvation Problem
+
+
+
+
+
+
+
+ Round robin (RR) -> https://www.geeksforgeeks.org/operating-systems/round-robin-scheduling-in-operating-system/
+- Spends more time on context switching.
+
+# RR -> https://youtu.be/TxjIlNYRZ5M?si=6_KmgGpNOQG_evyP => yt_link
+
+
+
+
+
 
 
 
@@ -180,8 +225,11 @@ Link GFG -> https://www.geeksforgeeks.org/operating-systems/inter-process-commun
 
 # Two type of process : -> https://youtu.be/bqfOtLF-jyo?si=6JFVEOsRxaCccM9K => yt_link
 
- - Independent process
- - co-operative process
+ - Independent process -> Nothing common, data not shared 
+
+ - co-operative process -> Affect another process, data shared, common like variable or memory
+
+
 
 
 
@@ -201,6 +249,7 @@ a. Race condition : -> https://youtu.be/9F7I6H-A1SY?si=RT_0jCXT5k460UEI => yt_li
  - Concept of synchronous and asynchronous
  - synchronous -> execute full process p1 then start another process p2 -> no problem
  - Asynchronous -> execute simaltineous process p1, p2 -> problem -> this is race condition
+
 
 
 
@@ -277,8 +326,13 @@ c. Starvation: -> https://youtu.be/FF88j59yLMk?si=r6epyd5OI3_1ZTk2 -> yt_link
 
 
 
+
+
 40. Solution of critical section problem  : 
+
 a. Semaphore : -> https://youtu.be/yiFBRQLgeZA?si=Zyq5va54J1hFdmvO -> yt_link
+-Semaphore in OS is a synchronization
+
    ~ 3 creterias
    . Mututal exclusion
    . Progress
@@ -289,9 +343,22 @@ a. Semaphore : -> https://youtu.be/yiFBRQLgeZA?si=Zyq5va54J1hFdmvO -> yt_link
 -> up, v, signel -> all are same
 
 
+
+
+
+
+
+
+
  # Semaphore types:
 
+
  a. Binary Semaphore : -> https://youtu.be/l5-3mbBV1BQ?si=_xXJOK_zaifVNkLl => yt_link
+ - In these types of Semaphores the integer value of the semaphore can only be
+either 0 or 1
+
+
+
 
  b. Counting Semaphore : -> 
  - If the value of the Semaphore is anywhere above 0, processes can access the critical section or the
