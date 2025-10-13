@@ -151,6 +151,12 @@ Medium-term – Swapping time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vB
  First Come First Serve (FCFS) -> https://www.geeksforgeeks.org/dsa/first-come-first-serve-cpu-scheduling-non-preemptive/ => gfg_link
 - FCFS suffers from Convoy effect
 
+# Convay Effective : -> https://youtu.be/XolG_3Yu_QA?si=E2kQ8fUXmkzfL3oQ => yt_link
+
+
+# Convay Effective  : -> https://www.geeksforgeeks.org/operating-systems/convoy-effect-operating-systems/ => gfg_link
+
+
 
 
 
@@ -352,10 +358,13 @@ a. Semaphore : -> https://youtu.be/yiFBRQLgeZA?si=Zyq5va54J1hFdmvO -> yt_link
 
  # Semaphore types:
 
-
  a. Binary Semaphore : -> https://youtu.be/l5-3mbBV1BQ?si=_xXJOK_zaifVNkLl => yt_link
  - In these types of Semaphores the integer value of the semaphore can only be
 either 0 or 1
+
+
+
+
 
 
 
@@ -367,6 +376,13 @@ shared resources.
  is already being accessed by a number of processes
 -  Counting semaphores are generally used when the number of instances of a resource is
 more than 1, and multiple processes can access the resource.
+
+
+
+
+
+
+
 
 
 
