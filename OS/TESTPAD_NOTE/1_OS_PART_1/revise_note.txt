@@ -10,7 +10,7 @@ ROM (Read-Only Memory) is also Primary Memory
 
 
 
-3. operating system goals. => https://youtu.be/ACsLvXuaKxw?si=9GxyaRPuzdxRSn3B => yt_link
+3. Operating system goals. => https://youtu.be/ACsLvXuaKxw?si=9GxyaRPuzdxRSn3B => yt_link
 
  - In simple words:
  . Goal = What you want to achieve.
@@ -125,6 +125,7 @@ ROM (Read-Only Memory) is also Primary Memory
 
 
 
+
 8. Kernel 
 - When operation system boots, kernel is first part of OS to load in main memory
 - The kernel code is usually loaded in to protected area of memory
@@ -156,6 +157,10 @@ management, memory management.
  - Supervisor: -> 
  - Interrupt handler: -> 
  - Memory manager : -> 
+
+
+
+
 
 
 
@@ -194,6 +199,9 @@ management, memory management.
 - BIOS (Basic Input/Output System) chip
 - Power-On Self Test (POST)
 - MBR → Master Boot Record 
+- ✅ UEFI -> Unified Extensible Firmware Interface.
+
+
 
 
 
@@ -360,13 +368,24 @@ coupled OS
 
 
 
+
+
+
+
+
+
 5. Distributed OS : ->  https://youtu.be/fqad0srttlo?si=K-HxVSQzt2zTxv77 => yt_link
 
 - These are referred to as loosely coupled systems
 - Examples:- Locus, DYSEAC
 
+
+
 # Differences between tightly coupled and loosely coupled systems in OS
  -> https://youtu.be/8r7bakCd9J8?si=F0GbTmdhDv4TyDla => yt_link
+
+
+
 
 
 
@@ -388,7 +407,8 @@ coupled OS
 
 8. Embedded OS : -> https://youtu.be/PDYuYGHT668?si=VgTxhVV-S1Umi20E => yt_link
 
-# embedded meaning -> https://youtu.be/nfelWslqfHU?si=TTzoB8uu5SFQkPXZ => yt_link
+# Embedded meaning -> https://youtu.be/nfelWslqfHU?si=TTzoB8uu5SFQkPXZ => yt_link
+
 
 
 
