@@ -1,4 +1,13 @@
-SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
+
+
+
+# Geeks for geeks note link -> https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/?utm_source=chatgpt.com => gfg_link
+
+
+
+
+
+# SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
 
 
 1. DDL -> Date defination language
@@ -11,6 +20,7 @@ SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
  - truncate -> https://youtu.be/_m1aJdD-oD8?si=lvKe23dVYwNJwHGW
 
  - rename -> https://youtu.be/IttR2kOc024?si=1XRBjSKzKQcjdh2_
+
 
 
 
@@ -36,6 +46,8 @@ SQL_Queries => https://youtu.be/vUj-kUEC_oA?si=pR3WAWKxaC6BIEia => yt_link
 3. DCL -> Data control language
  - Grant
  - revoke
+
+ 
 
 
 

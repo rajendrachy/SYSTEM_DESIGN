@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+# Introduction to DBMS & RDMS : -> https://youtu.be/3EJlovevfcA?si=qC8-d8JmeokrU5d6 => yt_link
+
+
+
+
+
+# File System vs DBMS : -> https://youtu.be/ZtVw2iuFI2w?si=Wi_AK6iSdGKfe-TW  => yt_link
+
+
+
+# File System vs DBMS : -> https://www.geeksforgeeks.org/dbms/difference-between-file-system-and-dbms/ => gfg_link
+
+
+
+
+
+
+
+# RDBMS -> https://youtu.be/pFfXhCMlkdk?si=9zNReioUj8qrBi9H => yt_link
+
+- Entity -> Table
+- Attribute -> Column
+- Recorde -> Row
+- Degree -> No. of Colums
+- Cardinality -> No. of Rows
+- Domain -> Column values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

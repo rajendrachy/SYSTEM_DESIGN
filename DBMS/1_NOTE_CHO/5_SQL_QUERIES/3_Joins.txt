@@ -1,0 +1,33 @@
+
+
+
+# Joins : -> https://www.geeksforgeeks.org/sql/sql-join-set-1-inner-left-right-and-full-joins/ => gfg_link
+
+
+
+
+
+
+1. SQL INNER JOIN :->  https://www.geeksforgeeks.org/sql/sql-inner-join/ => gfg_link
+
+
+
+
+2. SQL LEFT JOIN :-> https://www.geeksforgeeks.org/sql/sql-left-join/ => gfg_link
+
+
+
+
+3. SQL RIGHT JOIN :-> https://www.geeksforgeeks.org/sql/sql-right-join/ => gfg_link
+
+
+
+
+
+4. SQL FULL JOIN :-> https://www.geeksforgeeks.org/sql/sql-full-join/ => gfg_link
+
+
+
+
+
+
