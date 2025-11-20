@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+# OSI_MODEL: -> https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/  => gfg_link
+
+
+
+
+# What is OSI Model? - Layers of OSI Model :
+
+- The OSI (Open Systems Interconnection) Model is a set of rules that explains how different computer systems communicate over a network
+
+
+
+
+
+
+
+

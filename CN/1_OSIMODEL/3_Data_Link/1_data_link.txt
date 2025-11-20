@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+# Data Link Layer in OSI Model : -> https://www.geeksforgeeks.org/computer-networks/data-link-layer/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Data Link Layer in OSI Model : 
+- The data link layer is the second layer from the bottom in the OSI (Open System Interconnection) network architecture model.
+- Responsible for the node-to-node delivery of data within the same local network.
+
+
+
+
+
