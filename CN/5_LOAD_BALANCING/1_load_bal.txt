@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+
+# LOAD_BALANCING : -> https://www.geeksforgeeks.org/system-design/what-is-load-balancer-system-design/ => gfg_link
+
+
+
+
+
+
+
+
+
+# LOAD_BALANCING : -> https://youtu.be/bIBC_RQtS2E?si=ys318QNFr90tj-se => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
