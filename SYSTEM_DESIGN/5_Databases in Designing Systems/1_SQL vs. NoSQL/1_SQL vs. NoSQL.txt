@@ -1,0 +1,18 @@
+
+
+
+
+
+# SQL vs. NoSQL : -> https://www.geeksforgeeks.org/system-design/which-database-to-choose-while-designing-a-system-sql-or-nosql/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

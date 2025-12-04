@@ -1,0 +1,18 @@
+
+
+
+
+
+# CAP Theorem : -> https://www.geeksforgeeks.org/system-design/cap-theorem-in-system-design/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

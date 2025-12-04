@@ -1,0 +1,116 @@
+------------Story-Based Inheritance Questions (10 Marks Each)-------------
+Q3. Student and Exam
+A university maintains details of students.
+Create a base class Student with fields: name, rollNo.
+Derive a class Exam that stores marks of 3 subjects.
+Derive another class Result from Exam that calculates total marks and percentage.
+Write a program to create an object of Result and display the student’s details with percentage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q4. Employee and Manager
+A company wants to store details of employees.
+Create a class Employee with fields: empId, name, salary.
+Derive a class Manager that adds a field department.
+Derive a class GeneralManager that adds travelAllowance.
+Write a program to calculate the total salary of a General Manager and display all details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q5. Bank and Accounts
+A bank has different types of accounts.
+Create a base class Account with fields: accountNo, balance and methods deposit() and withdraw().
+Derive a class SavingAccount with an additional field interestRate.
+Derive a class FixedDeposit with timePeriod and a method calculateMaturityAmount().
+Write a program to create accounts and display details.
+
+
+
+
+
+
+
+
+Q6. Vehicle and Car
+
+A transport company wants to manage its vehicles.
+
+Create a base class Vehicle with fields brand, price.
+
+Derive a class Car with fields fuelType, mileage.
+
+Derive another class ElectricCar with fields batteryCapacity and chargingTime.
+
+Write a program to accept details of an ElectricCar and display all details neatly.
+
+Q7. Library Management
+
+A library system needs to manage books and their borrowers.
+
+Create a class Book with fields: title, author.
+
+Derive a class IssuedBook that has issueDate, dueDate.
+
+Derive a class StudentIssuedBook that adds studentName, rollNo.
+
+Write a program to display all the details of an issued book to a student.
+
+Q8. School Staff
+
+A school maintains details of staff members.
+
+Create a base class Staff with fields: name, staffId.
+
+Derive Teacher class with subject and salary.
+
+Derive HOD class with additional allowance.
+
+Write a program to calculate the total salary of HOD (salary + allowance) and display all details.
+
+Q9. Hospital System
+
+A hospital maintains patient details.
+
+Create a class Person with fields: name, age.
+
+Derive Patient with patientId, disease.
+
+Derive InPatient with roomNo, admissionDate.
+
+Write a program to display all details of an InPatient.
+
+Q10. Online Shopping System
+
+An e-commerce website needs to manage products.
+
+Create a base class Product with fields productId, name, price.
+
+Derive Electronics with warrantyPeriod.
+
+Derive Mobile with brand, storageCapacity.
+
+Write a program to accept and display all details of a Mobile.

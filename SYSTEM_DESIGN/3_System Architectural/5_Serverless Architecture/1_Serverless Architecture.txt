@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+# Serverless Architecture : -> https://www.geeksforgeeks.org/system-design/serverless-architectures/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

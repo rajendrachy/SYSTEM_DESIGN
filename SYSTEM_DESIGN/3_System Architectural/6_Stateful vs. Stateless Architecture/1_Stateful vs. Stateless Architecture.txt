@@ -1,0 +1,22 @@
+
+
+
+
+
+# Stateful vs. Stateless Architecture : -> https://www.geeksforgeeks.org/system-design/stateful-vs-stateless-architecture/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

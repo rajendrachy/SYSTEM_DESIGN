@@ -1,0 +1,6 @@
+public -> anyOne can access
+private -> access inside the class
+default -> access inside the package
+protected -> In the time of inheritance
+
+

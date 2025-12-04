@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+# Primary Bottlenecks : -> https://www.geeksforgeeks.org/system-design/primary-bottlenecks-that-hurt-the-scalability-of-an-application-system-design/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

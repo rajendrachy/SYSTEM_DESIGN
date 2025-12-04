@@ -1,0 +1,27 @@
+class Dog {
+    String name = "Rocky";
+}
+
+public class Test {
+    public static void changeDog(Dog d) {
+        d.name = "Max";      // Changes original dog's name
+        d = new Dog();       // Only changes local reference
+        d.name = "Bruno";
+    }
+
+    public static void main(String[] args) {
+        Dog dog = new Dog();
+        changeDog(dog);
+        System.out.println(dog.name);  // Output: Max (NOT Bruno)
+    }
+}
+
+
+
+
+Why? Because only the value of the reference was passed — not the reference itself.
+
+------------- Final Answer:--------------
+Java has no true "pass-by-reference". It is always pass-by-value — but for objects, the value passed is the reference, which allows modification of the object contents.
+
+

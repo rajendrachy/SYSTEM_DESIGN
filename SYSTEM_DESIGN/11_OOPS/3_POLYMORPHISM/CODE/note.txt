@@ -1,0 +1,14 @@
+-------------- What is Polymorphism in Java?-----------------
+Polymorphism is one of the four fundamental principles of Object-Oriented Programming (OOP) in Java, along with Encapsulation, Inheritance, and Abstraction.
+
+
+
+--------------Definition:-----------------------
+Polymorphism means "many forms". In Java, it refers to the ability of a single function, method, or object to behave differently based on the context.
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+ ------------Java Notes: final Keyword------------
+The final keyword in Java is used to restrict the user. It can be applied to:
+
+Variables
+Methods
+Classes
+
+---------------- 1. Final Variable---------------
+A final variable's value cannot be changed once assigned.
+
+----------- Example:-----------
+public class FinalVariableExample {
+    public static void main(String[] args) {
+        final int speed = 60;
+        System.out.println("Speed: " + speed);
+
+        // speed = 100;  //  Error: cannot assign a value to final variable
+    }
+}
+
+
+
+
+
+------------Notes:-------------
+final variables act as constants.
+
+Must be initialized when declared or inside the constructor (for instance variables).
+
+
+
+-------------- 2. Final Method--------------
+A method declared as final cannot be overridden by a subclass.
+
+
+
+
+------------- Example:-------------
+class Animal {
+    final void sound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+
+
+
+
+class Dog extends Animal {
+    // void sound() { } //  Error: Cannot override the final method
+}
+
+
+
+------------------ Notes:------------------
+Useful when you want to prevent subclasses from changing core logic.
+
+
+
+
+----------------- 3. Final Class------------
+A class declared as final cannot be extended (inherited).
+
+------------ Example:------------
+
+final class Vehicle {
+    void type() {
+        System.out.println("This is a vehicle");
+    }
+}
+
+
+
+
+// class Car extends Vehicle {} // ❌ Error: Cannot inherit from final class
+
+
+
+
+---------------Notes:-----------------
+Used to prevent inheritance.
+Useful in designing immutable or secure classes (like String class in Java, which is final).
+
+
+

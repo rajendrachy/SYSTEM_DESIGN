@@ -1,0 +1,53 @@
+ -----------1.Programming Approach-------------
+------Procedural Programming:--------
+Focuses on functions (procedures) and sequence of tasks to be performed. It follows a top-down approach.
+
+
+
+----------Object-Oriented Programming (OOP):-----------
+Focuses on objects (instances of classes) and data encapsulation. It follows a bottom-up approach.
+
+
+
+ --------------2. Structure-----------------------
+a.Procedural:
+Code is organized into functions. Data and behavior are separate.
+
+b.OOP:
+Code is organized into classes and objects, combining data and behavior together.
+
+
+
+
+---------------- 3. Reusability--------------
+Procedural:
+Code reuse is limited; functions can be reused but not easily extended.
+
+OOP:
+Promotes high reusability through inheritance, polymorphism, and composition.
+
+
+
+
+------------4. Data Handling-------------
+Procedural:
+Data is usually global or shared, and functions operate on it. There’s less protection.
+
+OOP:
+Data is encapsulated within objects. Access is controlled using access modifiers (like private, protected, public).
+
+
+
+
+------------Defination---------------
+Object-Oriented Programming (OOP) is a way of writing code where you build programs using "objects." These objects represent real things, like a car or a person, and they have both data (like color or name) and actions (like drive or talk). It helps make code easier to organize, understand, and reuse.
+
+
+
+
+
+
+
+
+
+

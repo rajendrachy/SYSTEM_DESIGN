@@ -1,0 +1,52 @@
+---------------1. Pass by Value (Primitive Types)-------------
+When you pass a primitive (like int, float, boolean, etc.) to a method, Java copies the actual value. Changes inside the method do not affect the original variable.
+
+
+
+------------------- Example:-------------------
+public class Test {
+    public static void change(int num) {
+        num = 100;
+    }
+
+    public static void main(String[] args) {
+        int x = 10;
+        change(x);
+        System.out.println("x = " + x); // Output: x = 10 (not changed)
+    }
+}
+
+
+
+
+--------------- 2. Pass by Value (Object References)--------------
+When you pass an object, the reference (memory address) is copied, not the actual object. So the method receives a copy of the reference, and can modify the original object — but not change the reference itself.
+
+---------------- Example:--------------------
+class Box {
+    int value;
+}
+
+
+public class Test {
+    public static void modify(Box b) {
+        b.value = 999; //  This modifies the original object
+    }
+
+    public static void main(String[] args) {
+        Box b1 = new Box();
+        b1.value = 100;
+        modify(b1);
+        System.out.println("b1.value = " + b1.value); // Output: 999
+    }
+}
+ Even though Java is passing "by value", the value is a reference, so the object contents can be modified.
+
+
+
+
+
+
+
+
+ 

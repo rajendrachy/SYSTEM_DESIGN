@@ -1,0 +1,18 @@
+
+
+
+
+
+
+# Which Scalability approach is right : -> https://www.geeksforgeeks.org/system-design/which-scalability-approach-is-right-for-our-application-system-design/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

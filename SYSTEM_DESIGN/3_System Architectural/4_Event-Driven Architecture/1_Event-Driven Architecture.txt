@@ -1,0 +1,18 @@
+
+
+
+
+
+# Event-Driven Architecture : -> https://www.geeksforgeeks.org/system-design/event-driven-architecture-system-design/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
