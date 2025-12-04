@@ -1,0 +1,17 @@
+
+
+
+# Non-Contiguous Allocation  : -> https://www.geeksforgeeks.org/operating-systems/non-contiguous-allocation-in-operating-system/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

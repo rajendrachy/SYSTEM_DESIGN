@@ -1,0 +1,18 @@
+
+
+
+
+
+
+# Process-Based and Thread-Based Multitasking : -> https://www.geeksforgeeks.org/operating-systems/process-based-and-thread-based-multitasking/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

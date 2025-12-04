@@ -1,0 +1,15 @@
+
+
+
+# Allocating kernel memory : -> https://www.geeksforgeeks.org/operating-systems/operating-system-allocating-kernel-memory-buddy-system-slab-system/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

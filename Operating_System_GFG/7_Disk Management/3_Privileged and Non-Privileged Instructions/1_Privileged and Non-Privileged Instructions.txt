@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+# Privileged and Non-Privileged Instructions : -> https://www.geeksforgeeks.org/operating-systems/privileged-and-non-privileged-instructions-in-operating-system/ => gfg_link
+
+
+
+
+
+
+
+
+

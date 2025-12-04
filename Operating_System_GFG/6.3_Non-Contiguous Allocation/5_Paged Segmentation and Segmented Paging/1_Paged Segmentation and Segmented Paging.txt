@@ -1,0 +1,17 @@
+
+
+
+
+
+# Paged Segmentation and Segmented Paging : -> https://www.geeksforgeeks.org/operating-systems/paged-segmentation-and-segmented-paging/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+
+
+
+# States of a Process : -> https://www.geeksforgeeks.org/operating-systems/states-of-a-process-in-operating-systems/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+

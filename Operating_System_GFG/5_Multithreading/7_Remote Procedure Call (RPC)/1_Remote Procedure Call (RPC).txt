@@ -1,0 +1,19 @@
+
+
+
+
+
+# Remote Procedure Call (RPC) : -> https://www.geeksforgeeks.org/operating-systems/remote-procedure-call-rpc-in-operating-system/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

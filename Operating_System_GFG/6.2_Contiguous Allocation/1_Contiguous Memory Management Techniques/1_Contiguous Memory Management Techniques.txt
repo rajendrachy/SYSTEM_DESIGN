@@ -1,0 +1,22 @@
+
+
+
+
+# Contiguous Memory Management Techniques : -> https://www.geeksforgeeks.org/operating-systems/implementation-of-contiguous-memory-management-techniques/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+
+
+# Banker's Algorithm : -> https://www.geeksforgeeks.org/operating-systems/bankers-algorithm-in-operating-system-2/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

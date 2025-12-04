@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+# Internal Fragmentation : -> https://www.geeksforgeeks.org/operating-systems/internal-fragmentation-in-os/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

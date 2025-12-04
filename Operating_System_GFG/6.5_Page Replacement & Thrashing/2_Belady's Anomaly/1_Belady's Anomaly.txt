@@ -1,0 +1,23 @@
+
+
+
+
+
+# Belady's Anomaly : -> https://www.geeksforgeeks.org/operating-systems/beladys-anomaly-in-page-replacement-algorithms/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

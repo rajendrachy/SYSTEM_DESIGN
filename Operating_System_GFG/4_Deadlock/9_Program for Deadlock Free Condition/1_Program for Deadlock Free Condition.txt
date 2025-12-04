@@ -1,0 +1,21 @@
+
+
+
+
+
+# Program for Deadlock Free Condition : -> https://www.geeksforgeeks.org/operating-systems/program-for-deadlock-free-condition-in-operating-system/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

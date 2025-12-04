@@ -1,0 +1,22 @@
+
+
+
+
+# Process Table and Process Control Block (PCB) : -> https://www.geeksforgeeks.org/operating-systems/process-table-and-process-control-block-pcb/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

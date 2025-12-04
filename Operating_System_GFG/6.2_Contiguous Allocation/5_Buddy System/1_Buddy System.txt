@@ -1,0 +1,16 @@
+
+
+
+
+# Buddy System : -> https://www.geeksforgeeks.org/operating-systems/buddy-system-memory-allocation-technique/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

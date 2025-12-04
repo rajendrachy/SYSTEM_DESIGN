@@ -1,0 +1,21 @@
+
+
+
+
+
+# External Fragmentation : -> https://www.geeksforgeeks.org/operating-systems/external-fragmentation-in-os/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+
+
+
+# Resource Allocation Graph (RAG) : -> https://www.geeksforgeeks.org/operating-systems/resource-allocation-graph-rag-in-operating-system/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+

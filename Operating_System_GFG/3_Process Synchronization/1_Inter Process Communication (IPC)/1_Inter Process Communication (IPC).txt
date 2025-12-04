@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+# Inter Process Communication (IPC)  : -> https://www.geeksforgeeks.org/operating-systems/inter-process-communication-ipc/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

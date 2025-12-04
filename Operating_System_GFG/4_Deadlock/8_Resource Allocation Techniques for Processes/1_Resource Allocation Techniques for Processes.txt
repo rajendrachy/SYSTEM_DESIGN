@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+# Resource Allocation Techniques for Processes : -> https://www.geeksforgeeks.org/operating-systems/resource-allocation-techniques-for-processes/ => gfg_link
+
+
+
+
+
+
+
+
+

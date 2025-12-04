@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+# Dispatcher and Scheduler : -> https://www.geeksforgeeks.org/operating-systems/difference-between-dispatcher-and-scheduler/ => gfg_link
+
+
+
+
+
+
+
+
+

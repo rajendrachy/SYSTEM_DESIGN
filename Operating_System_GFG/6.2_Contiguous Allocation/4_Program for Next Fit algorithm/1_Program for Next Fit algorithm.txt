@@ -1,0 +1,20 @@
+
+
+
+
+
+
+# Program for Next Fit algorithm : -> https://www.geeksforgeeks.org/dsa/program-for-next-fit-algorithm-in-memory-management/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

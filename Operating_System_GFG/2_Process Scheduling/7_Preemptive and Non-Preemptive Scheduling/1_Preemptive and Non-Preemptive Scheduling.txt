@@ -1,0 +1,17 @@
+
+
+
+
+
+# Preemptive and Non-Preemptive Scheduling : -> https://www.geeksforgeeks.org/operating-systems/preemptive-and-non-preemptive-scheduling/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
