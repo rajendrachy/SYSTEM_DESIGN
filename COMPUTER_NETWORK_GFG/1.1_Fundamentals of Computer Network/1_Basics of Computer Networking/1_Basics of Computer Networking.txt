@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+# Basics of Computer Networking : -> https://www.geeksforgeeks.org/computer-networks/basics-computer-networking/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+# Types of Computer Network Architecture :
+
+1.Client-Server Architecture:-> https://www.geeksforgeeks.org/system-design/client-server-model/ => gfg_link
+
+ 1. Client server architecture :->  https://youtube.com/shorts/pZDyhy2qKj0?si=F6HeaAz7P8qFnk_a => yt_link
+
+
+
+
+
+
+
+2.Peer-to-Peer Architecture: -> https://www.geeksforgeeks.org/computer-networks/what-is-p2p-peer-to-peer-process/ => gfg_link
+
+
+
+
+2. Peer-to-Peer Architecture: -> https://youtu.be/UA68gvohrRk?si=rz3PAjTQL0ST0AXT => yt_link
+
+
+
+
+
+
+
+# Network Devices: -> https://youtu.be/JhBnOamc_8s?si=H4yxfbQ3hcXZgRNi => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
