@@ -1,0 +1,45 @@
+
+
+
+
+
+# Physical Layer in OSI Model : -> https://www.geeksforgeeks.org/computer-networks/physical-layer-in-osi-model/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+# Physical Layer in OSI Model
+- The physical Layer is the bottom-most layer in the Open System Interconnection (OSI) Model, responsible for the physical and electrical transmission of data
+
+- The physical layer sends data bits from one device(s) (like a computer) to another device(s).
+
+
+
+
+
+
+
+# Protocols in Physical Layer
+ - Typically, a combination of hardware and software programming makes up the physical layer
+ - eg.
+ - Ethernet (IEEE 802.3) : Widely used for wired networks.
+   Wi-Fi (IEEE 802.11) : For wireless communication.
+   Bluetooth (IEEE 802.15.1) : Short-range wireless communication.
+   USB (Universal Serial Bus) : For connecting devices over short distances.
+
+
+
+
+
+
+
+
+   
