@@ -1,0 +1,104 @@
+
+
+
+# SQL_Queries : -> https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/?utm_source=chatgpt.com => gfg_link
+
+
+
+
+
+1. DDL -> Date defination language :
+
+ - Created ->  https://www.geeksforgeeks.org/sql/sql-create-table/ => gfg_link
+
+
+ - Alter -> https://www.geeksforgeeks.org/sql/sql-alter-add-drop-modify/ => gfg_link
+
+
+
+ - Drop  -> https://www.geeksforgeeks.org/sql/sql-drop-truncate/ => gfg_link
+
+
+
+ - Truncate -> https://www.geeksforgeeks.org/sql/sql-drop-truncate/ => gfg_link
+
+
+
+
+ - Rename -> https://www.geeksforgeeks.org/sql/sql-rename-table/ => gfg_link
+
+
+
+
+
+
+
+
+
+2. DML -> Date Manipulation Language
+
+- Select : -> https://www.geeksforgeeks.org/sql/sql-select-query/ => gfg_link
+
+
+ - Insert ->  https://www.geeksforgeeks.org/sql/sql-insert-statement/ => gfg_link
+
+
+ - Updata ->  https://www.geeksforgeeks.org/sql/sql-update-statement/ => gfg_link
+
+
+ - Delete ->  https://www.geeksforgeeks.org/sql/sql-delete-statement/ => gfg_link
+
+
+
+
+
+
+
+3. DCL -> Data Control Language
+
+------Scroll upto Last-------------------
+
+ - Grant : -> https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/?utm_source=chatgpt.com => gfg_link
+           
+
+
+
+           -> https://youtu.be/N5zCzLbjJuE?si=dPeSwr2bWWBpv62Y => yt_link
+
+
+
+
+ - revoke : -> https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/?utm_source=chatgpt.com => gfg_link
+
+
+
+
+
+
+
+
+
+
+4. DQL : -> Data Query Language
+
+- Select : -> https://www.geeksforgeeks.org/sql/sql-select-query/ => gfg_link
+
+
+
+
+
+
+5. TCL :-> Transaction Control Language
+
+
+
+
+
+
+# Constraints -> https://youtu.be/PcMr6xoundk?si=v9YZ-OhALb7sProD => yt_link
+
+
+
+
+
+

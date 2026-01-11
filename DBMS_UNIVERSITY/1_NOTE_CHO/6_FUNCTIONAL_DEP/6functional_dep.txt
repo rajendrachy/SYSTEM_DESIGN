@@ -1,0 +1,88 @@
+
+
+
+
+# # Functional Dependencies : -> https://youtu.be/qn5neFBpU40?si=m3gWPmyTgl9kX7eh => yt_link
+
+
+
+
+
+
+
+# Functional Dependencies : -> https://www.geeksforgeeks.org/dbms/what-is-functional-dependency-in-dbms/ => gfg_link
+
+
+
+
+
+
+
+
+
+# Types of Functional Dependencies : -> https://www.geeksforgeeks.org/dbms/types-of-functional-dependencies-in-dbms/ => gfg_link
+
+
+
+
+
+
+
+
+# Types of Functional Dependencies in DBMS
+
+
+1.Trivial functional dependency : -> https://youtu.be/i_OrLEBE3c4?si=G-EucZZA6uTZHI3c => yt_link
+
+
+
+2.Non-Trivial functional dependency : -> https://youtu.be/i_OrLEBE3c4?si=G-EucZZA6uTZHI3c => yt_link
+
+
+
+
+3.Multivalued functional dependency : -> https://youtu.be/3qNCkWxnlgY?si=-_p_82L-3zBXXGCM => yt_link
+
+
+
+
+4.Transitive functional dependency : -> https://youtu.be/iagOlicmlCA?si=p_xN5UHiuAaasnLi => yt_link
+
+
+
+
+
+
+
+
+5. Fully Functional Dependency  : -> https://youtu.be/Fy9JCPePhXk?si=KmvEH5uNZFD5OO2q => yt_link
+
+ # Prime and Non-Prime Attribute : -> https://youtu.be/FuzLzT9bHjE?si=jHZX4RZaNhPqUJ_C => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+6. Partial Functional Dependency  : -> https://youtu.be/twdct7QmkiI?si=sDOKsIybIEABflWZ => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
