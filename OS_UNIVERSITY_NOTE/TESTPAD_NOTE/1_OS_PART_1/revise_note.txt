@@ -1,0 +1,431 @@
+RAM = Primary Memory or Main memory is a volatile storage device
+Hard Disk / SSD = Secondary Memory
+ROM (Read-Only Memory) is also Primary Memory
+
+
+
+3. What is operating system ? -> https://youtu.be/4AaMnJmt8e4?si=A0RCVBkjsP1C1J3C => yt_link
+
+
+
+
+
+3. Operating system goals. => https://youtu.be/ACsLvXuaKxw?si=9GxyaRPuzdxRSn3B => yt_link
+
+ - In simple words:
+ . Goal = What you want to achieve.
+ . Operating system goals = What the operating system is designed to achieve.
+
+ - The goals are :
+  . User friendly
+  . Efficient
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Structure of the OS. => https://youtu.be/YV4PgC-HRj8?si=asCGNSjOyM6-BJH2 => yt_channel
+- U, A, O, H
+
+
+
+
+
+
+
+
+
+
+
+5. Computer Architecture =>
+ ISA → Instruction Set Architecture
+ HSA → Hardware System Architecture
+ AGP → Accelerated Graphics Port
+ PCI → Peripheral Component Interconnect
+ USB -> Universal Serial Bus.
+
+
+
+
+
+
+
+
+
+
+
+
+5.CPU – Central Processing Unit => https://youtu.be/SsPp_CenDNE?si=qd0wlI7zq2Ds_UDI => yt_link
+
+ # CPU -> https://www.geeksforgeeks.org/computer-science-fundamentals/central-processing-unit-cpu/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.RAM – Random Access Memory => https://www.geeksforgeeks.org/computer-science-fundamentals/random-access-memory-ram/ => gfg_link
+
+ # RAM -> https://youtu.be/7JlA7KbZGIs?si=gmxtQlhR6EXaRkpG => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Operating System Mode
+# Context Switching -> https://youtu.be/j2mcGlg9r-w?si=o6l1kMrpSaembe1U => yt_link
+
+ - User Mode -> https://youtu.be/KOC3CZNjyJ4?si=xAKyw4pcQrl0L9Uu => yt_link
+
+ - Kernel Mode -> https://youtu.be/KOC3CZNjyJ4?si=xAKyw4pcQrl0L9Uu => yt_link
+
+ - System calls are used to change mode from User to Kernel
+
+
+# System call -> https://youtu.be/8325iyeWbRY?si=-Ocf7IrKu18EXFqK => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Kernel 
+- When operation system boots, kernel is first part of OS to load in main memory
+- The kernel code is usually loaded in to protected area of memory
+- Kernel does not interact directly with user, but it interacts using SHELL and other
+programs and hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Kernel :-> https://youtu.be/xsHRCnmxLT8?si=uPg2n1tHR-TB3IBM => yt_link
+
+- kernel provides services for process management, file management, I/O  
+management, memory management.
+- System calls are used to  provide these type of services.
+- When operation system boots, kernel is first part of OS to load in main memory
+
+
+# Kernel includes:->
+ - Scheduler: -> https://youtu.be/MrorFvaStrA?si=ruOg9lYYpt0q5Z-p => yt_link
+ - Supervisor: -> 
+ - Interrupt handler: -> 
+ - Memory manager : -> 
+
+
+
+
+
+
+
+# Kernel Space Vs User Space : -> https://youtu.be/KsUoIQGPt7I?si=XTQOKrUf9MaSqqVN => yt_link
+
+
+
+
+
+
+
+
+
+
+11. System calls
+- System calls are also called software-interrupts.
+- yt_channel -> https://youtu.be/lhToWeuWWfw?si=pogKG6Cr8_TyNAEP
+
+
+# Software intrupped: -> https://youtu.be/O0mRZeUjEhk?si=tHu4Cr6HTojy3Ii2 => yt_link
+
+
+
+
+
+
+
+
+
+
+
+12. Starting an Operating System(Booting) : https://youtu.be/kSRg2zArT8o?si=13k_YoIG_FAm-EwW => yt_link
+
+- # What is Motherboard : -> https://youtu.be/n9bB74Nt0oY?si=n3eMPj-zekuUC631 => yt_link
+
+- BIOS (Basic Input/Output System) chip
+- Power-On Self Test (POST)
+- MBR → Master Boot Record 
+- ✅ UEFI -> Unified Extensible Firmware Interface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. BIOS(Basic input output system) : -> https://youtu.be/bkx89VvREPA?si=t9vh-r9HgqYBnR9e => yt_link
+
+- BIOS firmware was stored in a ROM/EPROM (Erasable Programmable
+Read-Only Memory) chip known as firmware on the PC motherboard
+
+# Firmware : -> https://youtu.be/DBW8YRv_83A?si=TAoaqvqjzb_hMeGV => yt_link
+
+
+
+
+
+
+
+
+
+
+
+13. UEFI : -> https://youtu.be/TmGsMfA5DyA?si=hfTjgoQZmtiSAGmN => yt_channel
+
+- UEFI is type of BIOS
+- UEFI & BIOS act and bridge between OS and Hardware
+- UEFI stands for Unified Extensible Firmware Interface. It does the same job as a BIOS, 
+but with one basic difference: it stores all data about initialization and startup in an .efi 
+file, instead of storing it on the firmware.
+- This .efi file is stored on a special partition called EFI System Partition (ESP) on the 
+hard disk. This ESP partition also contains the bootloader
+- UEFI was designed to overcome many limitations of the old BIOS
+
+
+
+
+
+
+
+
+
+
+
+
+15. Functions of Operating System: -> https://youtu.be/IafPEfUfcGU?si=TDaFYdGUwttVYKkl => yt_link
+
+- Process Management: -> https://youtu.be/aytWaG4mEJI?si=IWq1yuGn7sVwfjYC => yt_link
+
+
+
+
+- Memory management: -> https://youtu.be/ssDNRULUpt0?si=Wrs7cGTq9Q8U6klJ => yt_link
+
+
+
+
+- File Management: -> https://youtu.be/TcnK7JIYUfM?si=OYvazQXKCsWvDuOx => yt_link
+
+ =>  FAT12 (floppy  disks) 
+ FAT16 -> File Allocation Table 16-bit=>  (DOS and older versions of Windows) 
+ FAT32 (older versions  of Windows) 
+ NTFS -> New Technology File System. => (newer versions  of Windows) 
+ EXT3 -> Third Extended File System => (Unix/Linux) 
+ HFS+ -> Hierarchical File System Plus. => (Max OS X)
+
+
+
+
+
+- Device Management or I/O Management: -> https://youtu.be/xGeyPJOCl-c?si=owAahEe2dkczQmIT => yt_link
+
+
+
+
+
+- Security & Protection : -> https://youtu.be/dsuw1r59K9c?si=3yHGPu6aK0x1xTO4 => yt_link
+
+
+
+
+
+
+
+21. User Interface Mechanism(UIM) : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
+
+ => There are two types of user interfaces 
+
+1. Command Line Interface : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
+
+ eg.- Ms-Dos -> https://youtu.be/vLLVQusxKEY?si=UL6L3cU-3wRsHQEV => yt_link
+
+
+
+
+2. Graphical user Interface : -> https://youtu.be/ijsUIxosKNc?si=dSOlURRRLYQtRfvk => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. History of Operating System : -> https://youtu.be/FL58NJUPHnU?si=IKXIJkHE6nLPdKQC => yt_link
+
+- The First Generation (1940's to early 1950's)
+      -No Operating System
+
+- The Second Generation (1955-1965) : First operating system was introduced in the early 1950's.It was called GMOS(General Motors Operating System)
+
+- The Third Generation (1965-1980)
+ Introduction of multiprogramming
+ Development of Minicomputer
+
+
+- The Fourth Generation (1980-Present Day)
+ Development of PCs
+ Birth of Windows/MaC OS
+
+
+
+
+
+
+
+
+
+
+
+#Types of Operating Systems
+1. Batch Operating System : -> https://youtu.be/povNcHSasgs?si=MR2cMD2E-fImFsiz => yt_link
+ eg -> IBM's MVS 
+
+
+
+
+
+
+2. Multiprogramming Operating System : -> https://youtu.be/3MqyDWDpZoI?si=h9h5VRz6Zn4hgmHG => yt_link
+- It is non-preemptive
+
+
+
+
+
+
+3. Time-Sharing OS :=> https://youtu.be/3MqyDWDpZoI?si=h9h5VRz6Zn4hgmHG => yt_channel
+ - It is also caled a Multi Tasking OS
+
+
+
+
+
+
+4. Multiprocessing OS : -> https://youtu.be/NdTnVA6Eq9s?si=RZCwYsF_klbuIEmh 
+
+- Multiprocessor operating systems are also known as parallel OS or tightly
+coupled OS
+
+
+
+
+
+
+
+
+
+5. Distributed OS : ->  https://youtu.be/fqad0srttlo?si=K-HxVSQzt2zTxv77 => yt_link
+
+- These are referred to as loosely coupled systems
+- Examples:- Locus, DYSEAC
+
+
+
+
+
+
+# Differences between tightly coupled and loosely coupled systems in OS
+ -> https://youtu.be/8r7bakCd9J8?si=F0GbTmdhDv4TyDla => yt_link
+
+
+
+
+
+
+
+
+
+6. Network OS: -> https://youtu.be/xoxUXcqPhoU?si=hRyRRKUTvjGKwyfL => yt_link
+
+- Popularly known as tightly coupled systems
+
+
+
+
+
+
+7. Real Time OS : -> https://youtu.be/v7ErW6TyG4o?si=dP8XjZibq8SVdzDq => yt_link
+
+
+
+8. Embedded OS : -> https://youtu.be/PDYuYGHT668?si=VgTxhVV-S1Umi20E => yt_link
+
+# Embedded meaning -> https://youtu.be/nfelWslqfHU?si=TTzoB8uu5SFQkPXZ => yt_link
+
+
+
+
+
+
+
+

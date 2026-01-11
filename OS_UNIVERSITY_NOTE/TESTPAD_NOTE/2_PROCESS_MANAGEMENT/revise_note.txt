@@ -1,0 +1,411 @@
+1. Process Definition : -> https://youtu.be/B0Uq9Mjz4gM?si=2X9hK_s48qQoXWD5 => yt_link
+
+- A process is a program in execution.
+
+
+
+
+
+2. Difference between Program and Process: -> https://youtu.be/0LwyBjMuIhg?si=m8VhZ9F1VSxCo6vL => yt_link
+
+- A process is an ‘active’ entity instead of a program, 
+which is considered a ‘passive’ entity.
+- Process is created then Memory is allocated and PCB is created to 
+keep various data and pointers related to addresses
+
+
+
+
+3. Process Management Tasks
+- C, R, B, S, R, D, T, W, C 
+
+
+
+
+
+
+
+
+
+
+
+
+4. Process Management
+- Memory Layout :-> https://youtu.be/grriYn6v76g?si=-45K6ahut9Dv8oL_ => yt_link
+
+
+Text Segment:
+    Contains binary code (the program instructions)
+
+Data Segment:
+    Contains global data and static variables
+
+Stack:
+    Contains temporary data such as:
+        - Function parameters
+        - Return addresses
+        - Local variables
+
+Heap:
+    Contains dynamically allocated memory for the process during run time
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. PCB (Process Control Block) :-> https://youtu.be/GuGjNaMl0Rs?si=ZSNFBx0Oe1lVwHkG => yt_link
+
+# PCB -> https://www.geeksforgeeks.org/operating-systems/process-table-and-process-control-block-pcb/ => gfg_link
+ -> p, p, p, p, c, c, i/o, m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Process state diagram explain ->
+- New, Ready, Running, Wait & Terminated
+-process state diagrem-> YT-channel -> https://youtu.be/2dJdHMpCLIg?si=HDSB-9YIl0mptzKr
+
+- Multi programming & multi tasking -> https://youtu.be/3MqyDWDpZoI?si=Cb7oeh80dh_9sXSJ
+- Multi programming -> non preemptive
+- Multi tasking -> time sharing, preemptive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Types of Process:
+- CPU bound processes:-> https://youtu.be/b8lRqwTuWZE?si=pWK7n149b2bU7Ij2 => yt_link
+
+ If the process is intensive in terms of CPU operations, then it is called
+CPU bound process: -> 
+
+
+- I/o bound processes : https://youtu.be/b8lRqwTuWZE?si=pWK7n149b2bU7Ij2 => yt_link
+
+- If the process is intensive in terms of I/O operations then it is called
+I/O bound process.
+
+
+
+
+
+
+
+13. Types of Schedulers
+-Long-term – performance:-> https://youtu.be/AKCXDlGZ3-8?si=H5obNWZyFHw6XT1h => yt_link
+ - it is also called a JOb Schedulers
+ - new ----> Ready
+
+
+-Short-term – Context switching time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
+- Faster than both
+- Ready ----------> Running
+
+
+
+Medium-term – Swapping time: -> https://youtu.be/bEucoZ3WUx4?si=bUD-UG6xY6W8vBUf => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. CPU SCHEDULING :
+17. CPU Scheduling Algorithms: link -> https://www.geeksforgeeks.org/operating-systems/cpu-scheduling-in-operating-systems/ => gfg_link
+
+
+
+ First Come First Serve (FCFS) -> https://www.geeksforgeeks.org/dsa/first-come-first-serve-cpu-scheduling-non-preemptive/ => gfg_link
+- FCFS suffers from Convoy effect
+
+# Convay Effective : -> https://youtu.be/XolG_3Yu_QA?si=E2kQ8fUXmkzfL3oQ => yt_link
+
+
+# Convay Effective  : -> https://www.geeksforgeeks.org/operating-systems/convoy-effect-operating-systems/ => gfg_link
+
+
+
+
+
+
+
+ Shortest Job First (SJF) [Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/shortest-job-first-or-sjf-cpu-scheduling/ => gfg_link
+
+- One of the demerit SJF has is starvation.
+- The Shortest Job First (SJF) Scheduling algorithm selects the process with the smallest burst time for execution.
+
+
+
+
+
+
+
+
+ Shortest Remaining Time First [Preemptive] -> https://www.geeksforgeeks.org/dsa/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/ => gfg_link
+
+- Shortest remaining time first is the preemptive version of the Shortest job first
+- Like the shortest job first, it also has the potential for process starvation.
+
+
+
+
+
+
+ Priority Scheduling [Preemptive & Non Preemptive] -> https://www.geeksforgeeks.org/operating-systems/priority-scheduling-in-operating-system/ => gfg_link
+
+- One of the most common demerits of the Preemptive priority CPU scheduling algorithm is the Starvation Problem
+
+
+
+
+
+
+
+ Round robin (RR) -> https://www.geeksforgeeks.org/operating-systems/round-robin-scheduling-in-operating-system/
+- Spends more time on context switching.
+
+# RR -> https://youtu.be/TxjIlNYRZ5M?si=6_KmgGpNOQG_evyP => yt_link
+
+
+
+
+
+
+
+
+
+
+
+
+18. Criteria for selecting CPU Scheduling Algorithms
+- CPU utilization : CPU utilization can range from 0 to 100 but in a real-time system, it varies from 40 to  90 percent 
+depending on the load upon the system
+- Throughput : number of processes being executed and completed per unit of time  is called throughput.
+- Turn Around Time = Completion Time - Arrival Time
+- Waiting Time = Turnaround Time - Burst Time
+- Response Time = CPU Allocation Time(when the CPU was allocated for the first) - Arrival Time
+
+
+
+
+
+
+
+
+
+
+
+32. IPC : -> https://youtu.be/bqfOtLF-jyo?si=6JFVEOsRxaCccM9K => yt_link
+
+Link GFG -> https://www.geeksforgeeks.org/operating-systems/inter-process-communication-ipc/
+
+# Two type of process : -> https://youtu.be/bqfOtLF-jyo?si=6JFVEOsRxaCccM9K => yt_link
+
+ - Independent process -> Nothing common, data not shared 
+
+ - Co-operative process -> Affect another process, data shared, common like variable or memory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36. PROBLEMS DUE TO PROCESS COMMUNICATION
+a. Race condition : -> https://youtu.be/9F7I6H-A1SY?si=RT_0jCXT5k460UEI => yt_link
+ - Concept of synchronous and asynchronous
+ - synchronous -> execute full process p1 then start another process p2 -> no problem
+ - Asynchronous -> execute simaltineous process p1, p2 -> problem -> this is race condition
+
+
+
+
+
+
+
+
+
+
+
+
+b. Deadlocks: -> https://youtu.be/rWFH6PLOIEI?si=If6XPW8Q_cekMiao => yt_link
+
+ - Necessary condition:
+   ~ Mututal exclusion
+   ~ No preemption
+   ~ Hold and Wait
+   ~ Circulat Wait
+=> p1 --> R1 => Request
+=> R1 --> P1 => Allocation
+
+
+
+
+
+
+
+
+
+c. Starvation: -> https://youtu.be/FF88j59yLMk?si=r6epyd5OI3_1ZTk2 -> yt_link
+  -> prodess do not have resource this is starvation : -> p1 -> R1
+
+
+ - Causes
+    . low priority -> process with low proprity wait forever & process with high priority uses a process constantly 
+    . Deadlock 
+
+  starvation vs Deadlock
+  - starvation is lived stock & deadlock is circular wait
+
+  . fails safe method -> starvation is also called a fail safe methos & which prevent the Deadlocks temporary
+
+
+  - method to handle starvation
+   . Allocated of Resource should be taken by cpu
+   . Random choose of process method
+   . Scheduling algorithm
+
+
+
+
+
+
+
+
+
+
+
+   37. Process Synchronization : -> https://youtu.be/Z1IpjGa8AZc?si=Bu_u2XcdCikyp6yr -> yt_link
+
+
+
+
+
+
+
+
+39. Critical section : -> https://youtu.be/a9LEHups10M?si=s0vC4HVhW7qwoa8o -> yt_link
+
+
+
+
+
+
+
+
+
+
+40. Solution of critical section problem  : 
+
+a. Semaphore : -> https://youtu.be/yiFBRQLgeZA?si=Zyq5va54J1hFdmvO -> yt_link
+-Semaphore in OS is a synchronization
+
+   ~ 3 creterias
+   . Mututal exclusion
+   . Progress
+   . Bounded wait 
+
+
+-> Wait, p, down -> all are same
+-> up, v, signel -> all are same
+
+
+
+
+
+
+
+
+
+ # Semaphore types:
+
+ a. Binary Semaphore : -> https://youtu.be/l5-3mbBV1BQ?si=_xXJOK_zaifVNkLl => yt_link
+
+ - In these types of Semaphores the integer value of the semaphore can only be
+either 0 or 1
+
+
+
+
+
+
+
+
+ b. Counting Semaphore : -> 
+ - If the value of the Semaphore is anywhere above 0, processes can access the critical section or the
+shared resources.
+- if the value is 0, it means that there aren't any resources that are available or the critical section 
+ is already being accessed by a number of processes
+-  Counting semaphores are generally used when the number of instances of a resource is
+more than 1, and multiple processes can access the resource.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
