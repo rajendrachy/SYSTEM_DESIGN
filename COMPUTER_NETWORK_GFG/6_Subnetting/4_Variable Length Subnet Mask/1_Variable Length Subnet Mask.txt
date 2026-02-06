@@ -1,0 +1,20 @@
+
+
+
+
+
+
+# Variable Length Subnet Mask  : -> https://www.geeksforgeeks.org/computer-networks/introduction-of-variable-length-subnet-mask-vlsm/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

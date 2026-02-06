@@ -1,0 +1,16 @@
+
+
+
+
+# Generalization, Specialization and Aggregation : -> https://www.geeksforgeeks.org/dbms/generalization-specialization-and-aggregation-in-er-model/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

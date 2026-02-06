@@ -1,0 +1,17 @@
+
+
+
+
+# Attribute Closure in DBMS : -> https://www.geeksforgeeks.org/dbms/functional-dependency-and-attribute-closure/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

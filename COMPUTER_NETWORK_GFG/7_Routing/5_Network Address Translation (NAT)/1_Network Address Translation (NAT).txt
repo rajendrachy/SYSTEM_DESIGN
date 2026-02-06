@@ -1,0 +1,19 @@
+
+
+
+
+
+# Network Address Translation (NAT) : -> https://www.geeksforgeeks.org/computer-networks/network-address-translation-nat/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+

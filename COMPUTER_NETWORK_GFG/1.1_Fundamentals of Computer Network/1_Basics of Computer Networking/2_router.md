@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 1. Introduction
 * **Definition:** A router is a device that connects **two or more different networks**.
 * **Layer:** It operates at the **Network Layer (Layer 3)** of the OSI model.

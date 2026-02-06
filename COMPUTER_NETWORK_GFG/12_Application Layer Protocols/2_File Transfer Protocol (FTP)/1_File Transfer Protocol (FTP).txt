@@ -1,0 +1,17 @@
+
+
+
+
+# File Transfer Protocol (FTP) : -> https://www.geeksforgeeks.org/computer-networks/file-transfer-protocol-ftp-in-application-layer/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

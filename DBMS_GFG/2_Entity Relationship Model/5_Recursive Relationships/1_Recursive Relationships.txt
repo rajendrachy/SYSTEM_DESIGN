@@ -1,0 +1,16 @@
+
+
+
+# Recursive Relationships : -> https://www.geeksforgeeks.org/dbms/recursive-relationships-in-er-diagrams/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+

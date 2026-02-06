@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+# DBMS Architecture 1-level, 2-Level, 3-Level :-> https://www.geeksforgeeks.org/dbms/dbms-architecture-2-level-3-level/ => gfg_link
+
+
+
+
+
+
+
+

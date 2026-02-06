@@ -1,0 +1,21 @@
+
+
+
+
+
+# Minimization of ER Diagrams : -> https://www.geeksforgeeks.org/dbms/minimization-of-er-diagrams/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

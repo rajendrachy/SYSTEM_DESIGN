@@ -144,3 +144,9 @@ D. Partition tolerance can be ignored in practice
 * **CA systems** work only when partitions are not possible.
 
 
+
+
+
+
+
+

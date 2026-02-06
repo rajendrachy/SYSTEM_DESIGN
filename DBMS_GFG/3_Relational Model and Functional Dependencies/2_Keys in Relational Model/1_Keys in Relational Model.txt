@@ -1,0 +1,15 @@
+
+
+
+# Keys in Relational Model : -> https://www.geeksforgeeks.org/dbms/types-of-keys-in-relational-model-candidate-super-primary-alternate-and-foreign/ => gfg_link
+
+
+
+
+
+
+
+
+
+
+

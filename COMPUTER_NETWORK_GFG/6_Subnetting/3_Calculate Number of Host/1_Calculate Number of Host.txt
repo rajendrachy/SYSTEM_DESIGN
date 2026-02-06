@@ -1,0 +1,13 @@
+
+
+
+# Calculate Number of Host : -> https://www.geeksforgeeks.org/computer-networks/how-to-calculate-number-of-host-in-a-subnet/ => gfg_link
+
+
+
+
+
+
+
+
+
